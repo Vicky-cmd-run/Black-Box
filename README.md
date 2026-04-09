@@ -14,6 +14,6 @@ Predictive maintenance models are essential in modern industrial applications, a
 - `C_mapssModel.ipynb`: The primary Jupyter Notebook containing the full workflow from data loading and preprocessing to model definition.
 
 ### How to use
-1. Clone the repository: `git clone <your-repository-url>`
+1. Clone the repository: `git clone (https://github.com/Vicky-cmd-run/Black-Box.git)`
 2. Ensure you have the standard data science stack installed (e.g., Python 3, `pandas`, `numpy`, `scikit-learn`, `matplotlib`).
 3. Launch Jupyter Notebook or VS Code to run `C_mapssModel.ipynb`.
